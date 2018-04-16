@@ -6,3 +6,8 @@
     MIPushPackage.sMiPushMessage = miPushMessage;
     if (MIPushPackage.sReactContext != null) {
       sendListener("xmpush_click", miPushMessage);
+
+
+export ANDROID_HOME=/Users/okct/Library/Android/sdk
+export PATH=${PATH}:${ANDROID_HOME}/tools
+export PATH=${PATH}:${ANDROID_HOME}/platform-tools
