@@ -11,3 +11,7 @@
 export ANDROID_HOME=/Users/okct/Library/Android/sdk
 export PATH=${PATH}:${ANDROID_HOME}/tools
 export PATH=${PATH}:${ANDROID_HOME}/platform-tools
+
+
+11111111111
+2222222222
